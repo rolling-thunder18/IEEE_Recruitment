@@ -16,4 +16,5 @@ print("normalized matrix: ", normalized_matrix)
 #for flattened and sorted array
 flatten=normalized_matrix.flatten()
 sorted_array=np.sort(flatten)
+
 print("flattened and sorted array: ", sorted_array)
